@@ -18,5 +18,6 @@ public class Homework {
         System.out.println(f);
         long g = 12121;
         System.out.println(g);
+
     }
 }
